@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm James Kamau.
 
-<!--
-**jimmymuthoni/jimmymuthoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and results-driven Data and AI enthusiast.
+I specialize in building real-world solutions using:
 
-Here are some ideas to get you started:
+- Machine Learning, Deep Learning, and NLP.
+- MLOps, Generative AI, LLMOps, Multi-Agent AI.
+- Tools: Python, SQL, Apache Spark, Airflow, FastAPI, Docker, Streamlit, LangChain.
+- Databases: PostgreSQL, MySQL, Azure Blob.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+### GitHub Stats
+
+![Tech Bro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimmymuthoni&show_icons=true&theme=tokyonight)
+
+---
+
+> _"Building AI for good, and data systems that scale."_
