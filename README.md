@@ -16,7 +16,7 @@ I'm a passionate and results-driven Data & AI enthusiast based. I specialize in 
 
 -  **AI Healthcare Assistant** — LangChain + GPT-4 + FastAPI + React + MySQL
 -  **Smart Agriculture Advisor** — Crop disease detection + NLP advisory agent.
-- *Network Security System** — Phishing detection with ML + Streamlit UI
+- **Network Security System** — Phishing detection with ML + Streamlit UI
 - **MLOps Projects** — Model deployment, monitoring, and data pipelines with Kafka & Airflow
 
 
