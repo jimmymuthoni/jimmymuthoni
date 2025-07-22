@@ -17,6 +17,7 @@ Passionate data and AI enthusiast with expertise in building scalable data pipel
   
   ⚙️ **For automations** – Bash helps me script workflows, cron jobs, and system tasks.
 
-[Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+[Attention Is All You Need](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)
+
 
 
