@@ -11,11 +11,11 @@ Passionate data and AI enthusiast with expertise in building scalable data pipel
 
 - <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
   
-  💙 **For fun** – I write Go for backend services and high-performance tools.
+  💙 **For high-performance** – I write Go for backend services and high-performance tools, still learning.
 
 - <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" />
   
-  ⚙️ **For automations** – Bash helps me script workflows, cron jobs, and system tasks.
+  ⚙️ **For automations** – Bash helps me script workflows and system tasks.
 
 [Attention Is All You Need](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)
 
