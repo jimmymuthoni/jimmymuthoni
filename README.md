@@ -9,10 +9,6 @@ Passionate data and AI enthusiast with expertise in building scalable data pipel
   
   🐍 **For work** – I use Python for data, machine learning, and AI projects.
 
-- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
-  
-  💙 **For high-performance** – I write Go for backend services and high-performance tools, still learning.
-
 - <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge" />
   
   ⚙️ **For automations** – Bash helps me script workflows and system tasks.
