@@ -15,5 +15,7 @@ Passionate data and AI enthusiast with expertise in building scalable data pipel
 
 [Attention Is All You Need](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)
 
+I'm on my way to 10x ML | AI Engineer.
+
 
 
