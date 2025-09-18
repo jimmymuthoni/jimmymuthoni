@@ -17,5 +17,4 @@ Passionate data and AI enthusiast with expertise in building scalable data pipel
 
 I'm on my way to 10x ML | AI Engineer.
 
-I got an interest in Embedded AI (Learning C++ for it)
 
