@@ -13,10 +13,6 @@ Passionate data enthusiast and AI Software Engineer with expertise in building s
   
    **For automations** – Bash helps me script workflows and system tasks.
   
-- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
-
-  **I Just Love Go** - I write Golang for fun.
-  
 
 [Attention Is All You Need](https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf)
 
