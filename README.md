@@ -1,6 +1,15 @@
-### 👋 Hey, I’m James Kamau. 
+## Hey 👋, I’m James Kamau. 
+AI | ML | Go Engineer. I build system that does't just-work-it scale and survive. I spend most of my time in exploring Machine Learning, AI , trying new things using Go and Linux thinking about performance and how tools actually behave under load. I prefer deep dives over boilerplate, and I care more about process and architecture than hype.
 
-I specialize in building scalable, real-world solutions that merge Machine Learning, Deep Learning, Data Engineering, Computer Vision and Generative AI with solid backend systems.  
-Currently, I’m focused on becoming a Machine learning Engineer while also exploring how to deploy AI at scale with Go and Python.  
+Reach me at: jimmymuthoni26@gmail.com
 
-*“Code that doesn’t scale is just a demo. I build for production.”*
+### Tech Stack
+
+#### Languages: 
+· Python ·Go · SQL(MySQL/PostgreSQL)
+
+#### Infrastructure: 
+Linux · AWS · Docker · CI/CD 
+
+#### Currently Interested In
+· Building AI systems using Go.
