@@ -13,3 +13,6 @@ Linux · AWS · Docker · CI/CD
 
 #### Currently Interested In
 · Building systems using Deep Learning, Machine Learning, AI and Computer Vision.
+. I love writing Go for fun.
+
+
