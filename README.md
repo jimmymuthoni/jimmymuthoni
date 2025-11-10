@@ -1,18 +1,37 @@
-## Yooh 👋,
-AI| ML Engineer here. I build system that does't just-work-it scale and survive. I spend most of my time in exploring Machine Learning, AI , trying new things using Deep Learning and and Computer Vision thinking about performance and how tools actually behave under load. I prefer deep dives over boilerplate, and I care more about process and architecture than hype.
+###👋 Yooh,  
 
-Reach me at: jimmymuthoni26@gmail.com
+AI | ML Engineer here — I build systems that don’t just *work*, they **scale and survive**.  
 
-### Tech Stack
+I spend most of my time exploring Machine Learning, Artificial Intelligence, Deep Learning and how to leverage them in Finance and Trading Industry, while constantly experimenting new things around Computer Vision.  
+I’m obsessed with performance, architecture, and understanding how tools behave under real-world load.  
 
-#### Languages: 
-· Python ·Go · SQL(MySQL/PostgreSQL)
+I prefer deep dives over boilerplate, and I care more about process and scalability than hype.
 
-#### Infrastructure: 
-Linux · AWS · Docker · CI/CD 
+Reach me at: [jimmymuthoni26@gmail.com](mailto:jimmymuthoni26@gmail.com)
 
-#### Currently Interested In
-· Building systems using Deep Learning, Machine Learning, AI and Computer Vision.
-. I love writing Go for fun.
+---
 
+###  Tech Stack
+
+####  Languages
+-  Python  
+-  Go  
+- SQL (MySQL / PostgreSQL)
+
+#### Infrastructure & Tools
+- Linux  
+- AWS  
+- Docker  
+- CI/CD Pipelines  
+
+---
+
+### Currently Interested In
+- Leveraging data science expertise in FinTech and investment industries to build algorithmic trading systems using statistics, machine learning, and deep learning.  
+- Writing Go for fun — exploring its potential for backend systems and scalable AI infrastructure.  
+
+---
+
+### Fun Fact
+> “I don’t chase trends — I engineer solutions that last.”
 
