@@ -9,29 +9,7 @@ I prefer deep dives over boilerplate, and I care more about process and scalabil
 
 Reach me at: [jimmymuthoni26@gmail.com](mailto:jimmymuthoni26@gmail.com)
 
----
-
-###  Tech Stack
-
-####  Languages
--  Python  
--  Go  
-- SQL (MySQL / PostgreSQL)
-
-#### Infrastructure & Tools
-- Linux  
-- AWS  
-- Docker  
-- CI/CD Pipelines  
-
----
-
 ### Currently Interested In
 - Leveraging data science expertise in FinTech and investment industries to build algorithmic trading systems using statistics, machine learning, and deep learning.  
 - Writing Go for fun — exploring its potential for backend systems and scalable AI infrastructure.  
-
----
-
-### Fun Fact
-> “I don’t chase trends — I engineer solutions that last.”
 
