@@ -1,3 +1,3 @@
 ### 👋 Yooh,  
-ML Engineer here  —>.  
+Just a nerd who want to be an Engineer.
 
