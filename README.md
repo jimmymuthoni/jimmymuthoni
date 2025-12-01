@@ -1,3 +1,3 @@
 ### 👋 Yooh,  
-Just a nerd who want to be an Engineer.
+Just a nerd,obsessed with technology.
 
