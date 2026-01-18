@@ -6,7 +6,7 @@ I work primarily with Golang, Python, SQL, and Bash and I enjoy automating workf
 ---
 
 #### Currently Interested In
-- AI & AI Agents.
+
 - Machine Learning & Deep Learning.
 - Applied AI & Intelligent Systems . 
 - Data Analytics & Business Intelligence.   
