@@ -12,7 +12,7 @@ I work primarily with Golang, Python, SQL, and Bash and I enjoy automating workf
 - Data Analytics & Business Intelligence.   
 - Power BI & Tableau Dashboards.
 - Automation & Backend Systems.
-
+- Becoming 10x cracked Engineer.
 ---
 
 Find me at: jimmymuthoni26@gmail.com
