@@ -5,19 +5,6 @@ I work primarily with Golang, Python, SQL, and Bash and I enjoy automating workf
 
 ---
 
-#### Currently Interested In:
-
-- Machine Learning & Deep Learning Systems.
-- Applied AI & Intelligent Systems .   
-- Automation & Backend Systems.
-- Linux and writing Bash scripts.
-- Dark Terminal with green text is my home.
----
-
-Find me at: jimmymuthoni26@gmail.com
-
----
-
 
 
 
