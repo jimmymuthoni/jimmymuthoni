@@ -1,6 +1,14 @@
-#### Hey There 👋 Nice to meet you.
+### Hey There 👋 Nice to meet you.
+I'm a Machine Learning Engineer leveraging machine learning, statistics, and deep learning to build intelligent systems and develop quantitative models for alpha generation in financial markets.
 
-I'm an AI/ML Software Engineer (not the notebook type). I design and build intelligent systems using Machine Learning, Artificial Intelligence, Deep Learning, and Backend Engineering.
+#### Interests
 
-I work primarily with Go, Python, SQL, and Bash.
+- Quantitative Research
 
+- Alpha Generation
+
+- Machine Learning & Deep Learning
+
+- Algorithmic Trading
+
+- Statistical Modeling
