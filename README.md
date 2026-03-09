@@ -1,13 +1,3 @@
----
+
 ### Hey There 👋 Nice to meet you.
-I'm a Machine Learning Engineer leveraging machine learning, statistics, and deep learning to build intelligent systems and develop quantitative models for alpha generation in financial markets.
-
----
-#### Interests
-- Quantitative Finance Research
-- Alpha Generation
-- Machine Learning & Deep Learning
-- Algorithmic Trading
-- Statistical Modeling
-
----
+Machine Learning Engineer leveraging **Machine Learning, Statistics, and Deep Learning** to build intelligent systems and develop **Quantitative Models for Alpha Generation in Financial Markets**, with deep interests in **Quantitative Finance Research, Algorithmic Trading, and Statistical Modeling**.
