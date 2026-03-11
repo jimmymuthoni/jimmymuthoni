@@ -1,4 +1,4 @@
 
 ### Hey There 👋 Nice to meet you.
-I'm a Machine Learning Engineer leveraging Machine Learning, Statistical Modeling, and Deep Learning to build Intelligent Systems and develop Quantitative Models for Alpha Generation in Financial Markets.
+I'm a Machine Learning Engineer leveraging Machine Learning Algorithms, Statistical Modeling and Deep Learning to build Intelligent Systems and develop Quantitative Models for Alpha Generation in Financial Markets.
 
