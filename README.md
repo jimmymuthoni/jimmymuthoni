@@ -9,7 +9,7 @@
 Backend, DevOps, and Cloud Engineer. I build backend systems and automate infrastructure using modern DevOps practices. I design APIs and microservices in Go with a focus on clean architecture, reliability, and efficiency. I containerize applications with Docker and implement CI/CD pipelines to streamline testing, building, and deployment. I build software that doesn’t just work — it scales and survives.
 #### Skills
 
-- Backend Systems          - Go(Gin), Python(FastAPI)
+- Backend Systems          - Go, Python.
 
 - API Design                - RESTful services, JSON Schema validation, JWT/OAuth2, microservices.
 
