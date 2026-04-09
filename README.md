@@ -1,4 +1,4 @@
-### Hi there 👋 Nice to meet you.
+### Hey there 👋 Nice to meet you.
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=24&vCenter=true&width=1000&lines=Backend+Developer+%7C+DevOps+%7C+Cloud+%26+Infrastructure+Engineer" />
