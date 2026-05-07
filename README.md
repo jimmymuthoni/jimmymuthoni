@@ -2,3 +2,8 @@
 
 Software Developer | Cloud & DevOps Engineer | FinTech & AI Systems Enthusiast.
 
+
+```
+echo "Happy Coding, Everybody!"
+```
+
