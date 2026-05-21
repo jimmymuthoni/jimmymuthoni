@@ -1,9 +1,8 @@
 ### Hi There, Nice to meet you. I'm James.
 
-Software Developer | Cloud & DevOps Engineer | FinTech & AI Systems Enthusiast.
-
+MLOPs | Cloud & DevOps Engineer | FinTech Enthusiast.
 
 ```
-echo "Happy Coding, Everybody!"
+echo "I write Golang, Bash and Python. Happy Coding!"
 ```
 
