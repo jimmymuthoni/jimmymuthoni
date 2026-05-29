@@ -1,6 +1,6 @@
 ### Hi There, Nice to meet you. I'm James.
 
-MLOPs | Cloud & DevOps Engineer | FinTech Enthusiast.
+MLOPs | Cloud & DevOps Engineer | FinTech (FinOPs) Enthusiast.
 
 ```
 echo "I write Golang, Bash and Python. Happy Coding!"
