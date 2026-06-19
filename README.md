@@ -1,7 +1,7 @@
 ### Hey There Nice to Meet you, I'm James.
 
 ```
-> Software|DevOps|Cloud Enginner: --focus backend systems, Cloud Infra ,FinTech, AI systems.
+> Software|DevOps|Cloud Engineer: --focus backend systems, Cloud Infra ,FinTech, AI systems.
 > Status                          -- Bsc Computer Science Student.
 ```
 I build systems that scale, survive using zero bloat code.
