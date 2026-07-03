@@ -4,8 +4,6 @@
 > Software|DevOps|Cloud : --focus backend systems, Cloud Infra ,FinTech, AI systems.
 > Status                          -- Bsc Computer Science Student.
 ```
-
-
 ---
 ### Tools I work with:
 ```
