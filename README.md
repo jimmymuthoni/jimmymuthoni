@@ -7,8 +7,8 @@
 ---
 ### Tools I work with:
 ```
-Languages:         Golang, Python, C++.
-Stacks:            Fiber, Gin, FastAPI.
+Languages:         Golang, Python, Dart(Currently learning Flutter).
+Stacks:            Fiber,FastAPI, Django.
 Databases:         postgresql, mongodb, mysql.
 Cloud & DevOps:    AWS, linux, bash, Iac, docker, kubernetes, MLops.
 ```
