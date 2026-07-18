@@ -12,9 +12,7 @@ Stacks:            Fiber, FastAPI, Django.
 Databases:         postgresql, mongodb, mysql.
 Cloud & DevOps:    AWS, linux, bash, Iac, docker, kubernetes, MLops.
 ```
-### What I'm Up To:
+My portfolio site:
 ```
-Building high-performance tools with Go, Python and Java.
-Diving deeper into DevOps, Cloud, and FinTech engineering.
-Building cool stuff around AI.
+https://my-portfolio-site-nogr.onrender.com/
 ```
