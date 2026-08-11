@@ -6,7 +6,7 @@
 ---
 ### Tools I work with:
 ```
-> Languages:         Go, Python, Dart (Flutter), Bash. Also Java is cool.
+> Languages:         Go, Python, Bash. Also Java is cool.
 > Databases:         postgresql, mongodb, mysql.
 > Cloud & DevOps:    AWS, linux, bash, Iac, docker, kubernetes, MLops.
 ```
