@@ -2,7 +2,7 @@
 
 ```
 > Software | DevOps | Cloud : --focus backend systems, Cloud Infra ,FinTech, AI systems.
-> Currently learning low level programming with Zig.
+> Currently learning Penetration Testing & Cloud Security.
 ```
 
 
